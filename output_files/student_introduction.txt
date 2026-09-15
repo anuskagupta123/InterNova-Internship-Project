@@ -1,0 +1,9 @@
+Student Introduction
+=====================
+
+Name    : Anuska Gupta
+College : KPR Institute of Engineering and Technology
+Branch  : Artificial Intelligence and Data Science
+
+I am a student interested in Python, Data Analytics,
+Artificial Intelligence, and Machine Learning.
