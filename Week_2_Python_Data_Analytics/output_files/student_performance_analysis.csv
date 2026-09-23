@@ -1,0 +1,11 @@
+Student_ID,Name,Branch,Gender,Maths,Reading,Writing,Average,Performance
+S101,Student A,AI & DS,Female,72,78,75,75.0,Average
+S102,Student B,CSE,Male,85,82,88,85.0,Good
+S103,Student C,AI & DS,Female,91,90,94,91.66666666666667,Excellent
+S104,Student D,ECE,Male,68,70,65,67.66666666666667,Needs Improvement
+S105,Student E,CSE,Female,77,80,76,77.66666666666667,Average
+S106,Student F,AI & DS,Male,88,85,90,87.66666666666667,Good
+S107,Student G,ECE,Female,95,92,96,94.33333333333333,Excellent
+S108,Student H,CSE,Male,81,79,84,81.33333333333333,Good
+S109,Student I,AI & DS,Female,74,76,72,74.0,Average
+S110,Student J,ECE,Male,89,87,91,89.0,Good

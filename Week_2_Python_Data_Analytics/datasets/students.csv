@@ -1,0 +1,11 @@
+Student_ID,Name,Branch,Gender,Maths,Reading,Writing
+S101,Student A,AI & DS,Female,72,78,75
+S102,Student B,CSE,Male,85,82,88
+S103,Student C,AI & DS,Female,91,90,94
+S104,Student D,ECE,Male,68,70,65
+S105,Student E,CSE,Female,77,80,76
+S106,Student F,AI & DS,Male,88,85,90
+S107,Student G,ECE,Female,95,92,96
+S108,Student H,CSE,Male,81,79,84
+S109,Student I,AI & DS,Female,74,76,72
+S110,Student J,ECE,Male,89,87,91
