@@ -1,0 +1,11 @@
+Metric,Value
+Mean TotalPrice,56232.87707641196
+Median TotalPrice,13825.0
+Mode TotalPrice,2000.0
+Variance TotalPrice,10270064948.865864
+Standard Deviation TotalPrice,101341.32892786567
+Quantity-TotalPrice Correlation,0.33942484493522085
+Return Probability,0.10299003322259136
+Number of Outliers,180
+Highest Sales Region,East
+Highest Sales Product,Monitor
